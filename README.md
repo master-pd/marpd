@@ -23,44 +23,44 @@
 
 ## 📁 **Project Structure**
 
-marpd_bot/
-│
-├── 📦 CORE FILES (8 Files)
-│ ├── bot.py # 🤖 Main Bot (1000+ lines)
-│ ├── config.py # ⚙️ Configuration
-│ ├── db.py # 🗃️ Database Manager
-│ ├── payments.py # 💰 Payment System
-│ ├── games.py # 🎮 All Games
-│ ├── shop.py # 🛍️ Shop System
-│ ├── admin.py # 👑 Admin Panel
-│ └── security.py # 🔒 Security System
-│
-├── 🔧 UTILITY FILES (7 Files)
-│ ├── utils.py # 🛠️ Utility Functions
-│ ├── auto_messager.py # 🤖 Auto Messaging
-│ ├── recommender.py # 🎯 AI Recommendations
-│ ├── scheduler.py # ⏰ Task Scheduler
-│ ├── backup.py # 💾 Backup System
-│ ├── analytics.py # 📊 Analytics
-│ └── cache.py # 🔄 Cache System
-│
-├── 🛡️ SYSTEM FILES (4 Files)
-│ ├── notifier.py # 🔔 Notifications
-│ ├── moderation.py # ⚠️ Moderation
-│ ├── rate_limit.py # ⏳ Rate Limiting
-│ └── media_handler.py # 📁 Media Handling
-│
-├── 📄 CONFIG FILES (4 Files)
-│ ├── requirements.txt # 📦 Python Libraries
-│ ├── .env # 🔑 Environment Variables
-│ ├── start.sh # 🚀 Termux Start Script
-│ └── Procfile # ☁️ Deployment File
-│
-└── 📂 DATA FOLDERS (Auto Created)
-├── data/ # 💽 User Data
-├── backups/ # 💾 Backup Files
-├── media/ # 🖼️ Media Files
-└── logs/ # 📝 Log Files
+- marpd_bot/
+- │
+- ├── 📦 CORE FILES (8 Files)
+- │ ├── bot.py # 🤖 Main Bot (1000+ lines)
+- │ ├── config.py # ⚙️ Configuration
+- │ ├── db.py # 🗃️ Database Manager
+- │ ├── payments.py # 💰 Payment System
+- │ ├── games.py # 🎮 All Games
+- │ ├── shop.py # 🛍️ Shop System
+- │ ├── admin.py # 👑 Admin Panel
+- │ └── security.py # 🔒 Security System
+- │
+- ├── 🔧 UTILITY FILES (7 Files)
+- │ ├── utils.py # 🛠️ Utility Functions
+- │ ├── auto_messager.py # 🤖 Auto Messaging
+- │ ├── recommender.py # 🎯 AI Recommendations
+- │ ├── scheduler.py # ⏰ Task Scheduler
+- │ ├── backup.py # 💾 Backup System
+- │ ├── analytics.py # 📊 Analytics
+- │ └── cache.py # 🔄 Cache System
+- │
+- ├── 🛡️ SYSTEM FILES (4 Files)
+- │ ├── notifier.py # 🔔 Notifications
+- │ ├── moderation.py # ⚠️ Moderation
+- │ ├── rate_limit.py # ⏳ Rate Limiting
+- │ └── media_handler.py # 📁 Media Handling
+- │
+- ├── 📄 CONFIG FILES (4 Files)
+- │ ├── requirements.txt # 📦 Python Libraries
+- │ ├── .env # 🔑 Environment Variables
+- │ ├── start.sh # 🚀 Termux Start Script
+- │ └── Procfile # ☁️ Deployment File
+- │
+- └── 📂 DATA FOLDERS (Auto Created)
+- ├── data/ # 💽 User Data
+- ├── backups/ # 💾 Backup Files
+- ├── media/ # 🖼️ Media Files
+- └── logs/ # 📝 Log Files
 
 
 ## 🚀 **Quick Installation**
